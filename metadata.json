@@ -1,0 +1,6 @@
+{
+  "name": "NightLife",
+  "description": "A modern immersive nightlife discovery platform with interactive maps, live events, DJ schedules, and real-time crowd tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
